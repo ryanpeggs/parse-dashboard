@@ -1,5 +1,10 @@
 {
   "apps": [
-
+      {
+      "serverURL": "http://delve-parse.mybluemix.net:1337/",
+      "appId": "129471024",
+      "masterKey": "8f9qe89fhqef892390efj9",
+      "appName": "Delve Alpha"
+    }
   ]
 }
